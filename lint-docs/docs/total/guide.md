@@ -1,7 +1,7 @@
-<<<<<<< HEAD
-# frontend-lint
-一个全面、通用的前端Lint规范解决方案；集ESLint(Vue、React、Taro、Next、Nuxt)、StyleLint(Less、CSS)、CommitLint一体
-=======
+---
+sidebar_position: 1
+---
+# 介绍
 ### selling-lint是什么
 selling-lint是**一个全面、通用的前端Lint规范解决方案**，
 与其他规范方案不同的是，业内流行的方案通常解决某一(JS或Style等)规范，如[eslint-config-airbnb](https://github.com/airbnb/javascript)、[eslint-config-standard](https://github.com/standard/eslint-config-standard)等，而selling-lint是一个规范集合，基本覆盖目前前端技术栈，另一方面，提供轻量的脚手架工具，使用简单
@@ -49,4 +49,3 @@ selling-lint是**一个全面、通用的前端Lint规范解决方案**，
 
 ### 参与贡献
 欢迎提交[issue](http://coding.jd.com/selling-front/frontend-lint/issues/)
->>>>>>> origin/master
