@@ -1,6 +1,6 @@
 /**
  * @rulesName react
- * @rulesDesc all
+ * @rulesDesc 为 ESLint 反应特定的 react 规则。具体规则：https://www.npmjs.com/package/eslint-plugin-react
  */
 
 'use strict'
